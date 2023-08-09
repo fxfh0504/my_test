@@ -1,0 +1,12 @@
+.idea/
+target/
+*.iml
+.settings
+.project
+.classpath
+dist/
+.DS_Store
+.gradle
+.factorypath
+/.idea/
+data/raw
